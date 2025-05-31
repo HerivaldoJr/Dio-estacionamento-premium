@@ -29,5 +29,5 @@ Projeto desenvolvido como parte de um desafio de fundamentos da linguagem C#. El
 Clone o repositório:
 
 ```bash
-git clone https://github.com/HerivaldoJr/estacionamento-premium.git
-cd estacionamento-premium
+git clone https://github.com/HerivaldoJr/Dio-estacionamento-premium.git
+cd Dio-estacionamento-premium
